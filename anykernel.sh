@@ -11,6 +11,7 @@ do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=sanders
+supported.versions=
 '; } # end properties
 
 # boot shell variables
